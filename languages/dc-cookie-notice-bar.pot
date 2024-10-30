@@ -1,0 +1,231 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookie Notice Bar\n"
+"POT-Creation-Date: 2017-01-21 17:49+0100\n"
+"PO-Revision-Date: 2017-01-06 15:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: Dario Curasì <curasi.d87@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:17
+msgid "Cookie Notice Bar"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:22
+msgid "Configuration"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:27
+msgid "Enable / Disable"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:31
+msgid "Activate Options"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:37
+msgid "Message"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:43
+msgid "The notice message into the cookie bar."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:49
+msgid "Button Text"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:53
+msgid "The text of the button to accept the usage of the cookies."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:58
+msgid "Cookie expiry"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:62
+msgid "1 day"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:63
+msgid "1 week"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:64
+msgid "1 month"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:65
+msgid "3 months"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:66
+msgid "6 months"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:67
+msgid "1 year"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:68
+msgid "infinity"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:70
+msgid "The amount of time that cookie should be stored for."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:75
+msgid "Read More Text"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:79
+msgid ""
+"The text of the link \"Read More\". For add to the text use the shortcode "
+"[dc-cnb-read-more] in the Message Text."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:84
+msgid "Read More Link"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:92
+msgid "Read More Target"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:96
+msgid "_blank"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:97
+msgid "_self"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:104
+msgid "Design"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:109
+msgid "Position"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:113
+msgid "Top"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:114
+msgid "Bottom"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:116
+msgid "The position where you want display the notice."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:121
+msgid "Background Color"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:125
+msgid "The background color of the notice."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:130
+msgid "Text Color"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:134
+msgid "The text color of the notice."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:139
+msgid "Button Background Color"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:143
+msgid "The background color of the button to accept the usage of the cookies."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:148
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:152
+msgid "The text color of the button to accept the usage of the cookies."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:157
+msgid "Button Padding"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:161
+msgid ""
+"The padding of the button to accept the usage of the cookies  (e.g. 5px "
+"10px)."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:166
+msgid "Button Border Radius"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:170
+msgid ""
+"The border radius of the button to accept the usage of the cookies (e.g. "
+"8px)."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:175
+msgid "Read More Color"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:179
+msgid "The color of the Read More text."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:184
+msgid "Read More Hover Color"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:188
+msgid "The color of the Read More text on hover."
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:194
+msgid "Advanced"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:199
+msgid "Debug Mode"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:203
+msgid "Activate Debug Mode"
+msgstr ""
+
+#: admin/partials/dc-cookie-notice-bar-admin-display.php:205
+msgid "When debug mode is active the Cookie Notice Bar is always displayed."
+msgstr ""
+
+#: includes/class-dc-cookie-notice-bar-activator.php:34
+msgid ""
+"We use cookies to ensure that we give you the best experience on our "
+"website. If you continue to use this site we will assume that you are happy "
+"with it."
+msgstr ""
+
+#: includes/class-dc-cookie-notice-bar-activator.php:35
+msgid "Ok"
+msgstr ""
+
+#: includes/class-dc-cookie-notice-bar-activator.php:37
+msgid "Read More"
+msgstr ""
